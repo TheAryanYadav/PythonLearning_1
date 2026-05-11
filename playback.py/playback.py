@@ -5,3 +5,4 @@ for char in new_list:
     new +=char + '...'
 
 print(new.strip('...'))
+#Successfully solved. 
